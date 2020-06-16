@@ -1,18 +1,24 @@
 WEBMETHODS.io iPaaS
 ==============================================
 webMethods.io is the next generation of Software AG’s Integration Platform as a Service (iPaaS). webMethods.io combines low-code usability with high control of complex integrations and APIs. With an industry-leading set of 300+ supported connectors to SaaS applications and pre-built integrations (recipes), this multi-function iPaaS integrates apps, data, APIs, B2B and IoT devices.
+
 ![](attachments/1.PNG)
+
+webMethods.io iPaaS is available on public Cloud (Azure and AWS) for subscription. webMethods.io also has [embedable integration capabilities](https://www.softwareag.com/be/products/webmethods_integration/embedded-integration/default.html)
+
+Get WEBMETHODS.io
+-----------------
+
+You can get a _30 day free trial_ cloud account provisioned in a few minutes. Visit **[WEBMETHODS.io](https://www.softwareag.cloud/site/product/webmethods-api.html)** and get your instance running in a region of your choice.
+
+webMethods.io iPaaS can also be deployed to 
+
 
 WEBMETHODS.io Integration
 ==============================================
 
 [WEBMETHODS.io Integration](https://www.softwareag.com/en_corporate/platform/integration-apis/api-integration-platform.html) is a powerful integration Platform-as-a-Service (iPaaS), providing a combination of capabilities offered by ESBs, data integration systems, API management tools and B2B gateways.
 It enables a wide variety of integration tasks to be accomplished quickly and easily with a graphical/api interface. In many cases, use of webMethods.io allows you to be much faster than traditional efforts involving software engineering, more information can be found [here](https://www.softwareag.cloud/site/product/webmethodsio-integration.html#/).
-
-Get WEBMETHODS.io
------------------
-
-You can get a _30 day free trial_ cloud account provisioned in a few minutes. Visit **[WEBMETHODS.io](https://www.softwareag.cloud/site/product/webmethods-api.html)** and get your instance running in a region of your choice.
 
 Get started
 -----------

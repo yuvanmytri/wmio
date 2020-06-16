@@ -11,7 +11,7 @@ Get WEBMETHODS.io
 
 You can get a _30 day free trial_ cloud account provisioned in a few minutes. Visit **[WEBMETHODS.io](https://www.softwareag.cloud/site/product/webmethods-api.html)** and get your instance running in a region of your choice.
 
-webMethods.io iPaaS can also be deployed to 
+webMethods.io iPaaS can also be deployed to Private Cloud to achieve Multi Cloud Hybrid Integration.
 
 
 WEBMETHODS.io Integration

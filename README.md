@@ -13,6 +13,9 @@ You can get a _30 day free trial_ cloud account provisioned in a few minutes. Vi
 
 webMethods.io iPaaS can also be deployed to Private Cloud to achieve Multi Cloud Hybrid Integration.
 
+WEBMETHODS.io Offerings
+-----------------------
+![](attachments/2.PNG)
 
 WEBMETHODS.io Integration
 ==============================================

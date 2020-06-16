@@ -15,7 +15,7 @@ webMethods.io iPaaS can also be deployed to Private Cloud to achieve Multi Cloud
 
 WEBMETHODS.io Offerings
 -----------------------
-![](attachments/2.PNG)
+![](attachments/3.PNG)
 
 WEBMETHODS.io Integration
 ==============================================

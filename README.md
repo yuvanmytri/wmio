@@ -19,9 +19,10 @@ WEBMETHODS.io Offerings
 
 WEBMETHODS.io Integration
 ==============================================
+![](attachments/4.PNG)
 
-[WEBMETHODS.io Integration](https://www.softwareag.com/en_corporate/platform/integration-apis/api-integration-platform.html) is a powerful integration Platform-as-a-Service (iPaaS), providing a combination of capabilities offered by ESBs, data integration systems, API management tools and B2B gateways.
-It enables a wide variety of integration tasks to be accomplished quickly and easily with a graphical/api interface. In many cases, use of webMethods.io allows you to be much faster than traditional efforts involving software engineering, more information can be found [here](https://www.softwareag.cloud/site/product/webmethodsio-integration.html#/).
+webMethods.io Integration offers integration capabilities supporting different personas - Citizen Integrators (via workflows), Ad-hoc Integrators and Integration Speciliasts (via flowservices and APIs). 
+
 
 Get started
 -----------
